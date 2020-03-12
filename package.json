@@ -25,5 +25,7 @@
     "jest": "^25.1.0",
     "eslint": "^6.8.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "uuid": "^7.0.2"
+  }
 }
