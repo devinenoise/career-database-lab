@@ -1,0 +1,31 @@
+{
+  "name": "career-database-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinenoise/career-database-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinenoise/career-database-lab/issues"
+  },
+  "homepage": "https://github.com/devinenoise/career-database-lab#readme",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "uuid": "^7.0.2"
+  }
+}
